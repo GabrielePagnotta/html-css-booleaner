@@ -78,8 +78,14 @@ background-color:rgb(9, 125, 202);
 
 .mid-row{
 background-color: rgb(177, 229, 242);
-text-align: left;
-font-size: 15px;
-font-weight: bold;
-height: 40%;
+
 }
+
+td{
+    text-align: left;
+    font-size: 15px;
+    font-weight: bold;
+    height: 50px;
+}
+
+
