@@ -50,6 +50,8 @@ margin-left: 6%;
 margin-top:1%;
 }
 
+
+
 #tim2{
 width: 21.5%;
 
@@ -92,5 +94,50 @@ td{
 table{
 border-spacing:0;
 }
+
+.almost-ended{
+margin-left:6%;
+margin-top: 0%;
+background-image: url(/img/monitor.jpg);
+width: 250px;
+height: 200px;
+font-size: 20px;
+color: aliceblue;
+padding-left: 10px;
+padding-top: 10px;
+
+
+}
+
+.almost-ended-2{
+    margin-left:6%;
+    margin-top: 0.5%;
+    background-image: url(/img/graph.jpg);
+    width: 250px;
+    height: 200px;
+    font-size: 20px;
+    color: aliceblue;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 6%;
+    
+    
+    }
+
+    #grey{
+    
+    color: grey;
+    margin-top: 4%;
+    margin-left: 6%;
+    margin-bottom: 0.5%;
+    font-size: 20px;
+
+
+    }
+
+section{
+position:relative    }
+
+
 
 
