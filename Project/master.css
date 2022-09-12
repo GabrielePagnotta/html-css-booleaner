@@ -60,3 +60,26 @@ margin-left: 5%;
 margin-top: 2%;
 font-size: 20px;
 }
+
+
+.table{
+width:50%;
+border:1px solid black;
+text-align: center;
+margin-left: 6%;
+margin-top: 1%;
+
+
+}
+
+.head-row{
+background-color:rgb(9, 125, 202);
+}
+
+.mid-row{
+background-color: rgb(177, 229, 242);
+text-align: left;
+font-size: 15px;
+font-weight: bold;
+height: 40%;
+}
